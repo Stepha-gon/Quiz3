@@ -1,3 +1,4 @@
+--Presentado por Gina Stephanie Gonzalez Quiz3
 select * from dbo.[ventas Videojuegos (3)]
 
 
